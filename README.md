@@ -19,6 +19,3 @@ A simple Java application that lets users create notes with tags and search them
    javac *.java
 3. Run:
    java Main
-
-## Example
-Search for notes with tags: coding, java
